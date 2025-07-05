@@ -2,8 +2,15 @@
     text-align: center;
 }
 
+.my-img {
+  width: 300px;
+  height: auto;
+ 
+  
+}
 .first{
     background-color: aqua;
+    
 }
 
 .second{
