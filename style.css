@@ -10,13 +10,22 @@
 }
 .first{
     background-color: aqua;
+    text-align: justify;
+   
+
     
 }
 
 .second{
     background-color: blueviolet;
+     text-align: justify;
 }
 
 .third{
     background-color: cadetblue;
+     text-align: justify;
+}
+.fourth{
+    background-color: burlywood;
+     text-align: justify;
 }
